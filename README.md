@@ -1,4 +1,4 @@
-# mongodb-python
+# Project using a MongoDB in Cloud with Python
 
-The aim of this repository is to an academic example to create a mongodb example using Python.
+The aim of this repository is to create a Mongodb in Cloud using Python.
 
